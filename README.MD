@@ -1,9 +1,9 @@
 ## Follow Steps
 
-### 1. Clone Repository
+### 1. Clone Repository VsCode
 
 ```bash
-git clone https://github.com/Mnuralim/bot-data-lake.git
+git clone https://github.com/BidyutRoy2/bot-data-lake.git
 ```
 
 ```
