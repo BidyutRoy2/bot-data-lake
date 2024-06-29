@@ -1,6 +1,6 @@
-## Follow Steps
+## Follow Steps - Run VsCode PC or Termux Mobile
 
-### 1. Clone Repository VsCode
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/BidyutRoy2/bot-data-lake.git
@@ -33,7 +33,7 @@ SEED_PHRASES=["your seed phrase 1", "your seed phrase 2"]
 PRIVATE_KEYS=["your private key 1", "your private key 2"]
 ```
 
-### 4. Run script
+### 4. Run script For Start
 
 ```bash
 npm run start
