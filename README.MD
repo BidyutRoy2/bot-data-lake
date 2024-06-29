@@ -40,3 +40,6 @@ npm run start
 ```
 
 \*Make sure you have Node.js and git installed on your system.
+
+
+### Join Telegram: https://t.me/hiddengemnews
